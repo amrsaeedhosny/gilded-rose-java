@@ -3,7 +3,7 @@ package com.gildedrose.strategies;
 import com.gildedrose.Item;
 
 /**
- * A quality decrease strategy that is being used by Conjured and normal it types.
+ * A quality decrease strategy that is being used by Conjured and normal item types.
  */
 public class QualityDecreaseStrategy implements QualityUpdateStrategy {
 
